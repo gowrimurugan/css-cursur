@@ -1,0 +1,129 @@
+p{
+    cursor: alias;
+}
+h1{
+    cursor: all-scroll;
+}
+h2{
+    cursor: auto;
+}
+h3{
+    cursor: cell;
+}
+h4{
+    cursor: col-resize;
+}
+.h4{
+    cursor: context-menu;
+}
+h5{
+    cursor: copy;
+}
+h6{
+    cursor: crosshair;
+}
+a{
+    cursor: e-resize;
+}
+.hi-1{
+    cursor: ew-resize;
+}
+.hi-2{
+    cursor: grab;
+}
+.hi-3{
+    cursor: grabbing;
+}
+.hi-4{
+    cursor: help;
+}
+.hi-5{
+    cursor: move;
+}
+.hi-6{
+    cursor: n-resize;
+}
+.hi-7{
+    cursor: ne-resize;
+}
+.hi-8{
+    cursor: nesw-resize;
+}
+.hi-9{
+    cursor: no-drop;
+}
+.hi-10{
+    cursor: none;
+}
+.hi-11{
+    cursor: not-allowed;
+}
+.hi-12{
+    cursor: ns-resize;
+}
+.hi-13{
+    cursor: nw-resize;
+}
+.hi-14{
+    cursor: nwse-resize;
+}
+.hi-15{
+    cursor: pointer;
+}
+.hi-16{
+    cursor: progress;
+}
+.hi-17{
+    cursor: row-resize;
+}
+.hi-18{
+    cursor: s-resize;
+}
+.hi-19{
+    cursor: se-resize;
+}
+.hi-20{
+    cursor: sw-resize;
+}
+.hi-21{
+    cursor: text;
+}
+.hi-22{
+    cursor: vertical-text;
+}
+.hi-23{
+    cursor: w-resize;
+}
+.hi-24{
+    cursor: wait ;
+}
+.hi-25{
+    cursor: zoom-in;
+}
+.hi-26{
+    cursor: zoom-out;
+}
+.hi-27{
+    cursor: -moz-grab;
+}
+.hi-28{
+    cursor: -moz-grabbing;
+}
+.hi-29{
+    cursor: -moz-zoom-in;
+}
+.hi-30{
+    cursor: -moz-zoom-out;
+}
+.hi-31{
+    cursor: -webkit-grab;
+}
+.hi-32{
+    cursor: -webkit-grabbing;
+}
+.hi-33{
+    cursor: -webkit-zoom-in;
+}
+.hi-34{
+    cursor: -webkit-zoom-out;
+}
